@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>tp7</label>
+		<id>30</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>tp7.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>tp7.jcp</path>
+		</project>
+	</projects>
+</workspace>
